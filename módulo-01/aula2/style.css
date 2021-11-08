@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/* AULA 01 
+h1 {
+    color:blue;
+    font-size:60px;
+    font-family: tahoma;
+}*/
+
+h1 {
+    color:blue;
+    font-size: 60px;
+    font-family: tahoma;
+}
+
+p {
+    color: green;
+    font-size: 12px;
+}
+
+input [type="text"] {
+    width: 200px;
+    background-color: #ccc;
+    height: 35px;
+    border: none;
+}
+
+input [type="email"] {
+    width: 200px;
+    background-color: #ccc;
+    height: 35px;
+    border: none;
+}
+
+input#enviar {
+    width: 50px;
+    background-color: rgb(37, 218, 37);
+    height: 35px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}

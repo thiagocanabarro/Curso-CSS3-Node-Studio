@@ -1,0 +1,18 @@
+.texto-principal { /*CLASSE -- É PONTO -- PODE SER UTILIZADO POR MAIS ELEMENTOS NO HTML*/
+    color: red;
+    text-align: center;
+}
+
+.fundo-principal { /*CLASSE -- É PONTO -- PODE SER UTILIZADO POR MAIS ELEMENTOS NO HTML*/
+    background-color: green;
+    padding: 20px;
+}
+
+#conteudo {  /*ID -- É HASHTAG - ESSE É UTILIZADO SOMENTE POR UM ELEMENTO NO HTML*/
+    background-color: blue;
+    padding: 20px;
+    color:green;
+}
+
+
+

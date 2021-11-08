@@ -1,0 +1,7 @@
+#conteudo {
+    min-width: 500px; /* WIDTH LARGURA */
+    min-height: 20px;/* HEIGHT ALTURA */
+    background-color: green;
+    color: #fff;
+    padding: 20px; /*  PADDING É MARGEM */
+}
